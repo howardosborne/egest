@@ -23,3 +23,6 @@ needs a tidy up
 make_visual.py
 creates a timeline 
 /data
+were the useful output is stored
+/data/archive
+archive of previous executions
