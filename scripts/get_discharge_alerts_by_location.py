@@ -10,14 +10,14 @@ url_stem = "https://prod-tw-opendata-app.uk-e1.cloudhub.io/data/STE/v1"
 #date filter
 more_recent_than = "2020-12-31"
 locations_file_headers = f"LocationName|PermitNumber|LocationGridRef|X|Y|LATITUDE|LONGITUDE|ReceivingWaterCourse|AlertStatus|AlertPast48Hours|MostRecentDischargeAlertStart|MostRecentDischargeAlertStop\n"
-locations_file = open(f"../data/locations_with_current_status.csv","w")
-locations_archive_file = open(f"../data/archive/locations_with_current_status_{datetime.datetime.utcnow().strftime('%Y_%m_%d_%H_%M_%S')}.csv","w")
+locations_file = open(f"data/locations_with_current_status.csv","w")
+locations_archive_file = open(f"data/archive/locations_with_current_status_{datetime.datetime.utcnow().strftime('%Y_%m_%d_%H_%M_%S')}.csv","w")
 locations_file.write(locations_file_headers)
 locations_archive_file.write(locations_file_headers)
 
 alerts_file_headers = f"LocationName|PermitNumber|LocationGridRef|X|Y|LATITUDE|LONGITUDE|ReceivingWaterCourse|AlertType|DateTime\n"
-alerts_file = open(f"../data/alerts_history.csv","w")
-alerts_archive_file = open(f"../data/archive/alerts_history_{datetime.datetime.utcnow().strftime('%Y_%m_%d_%H_%M_%S')}.csv","w")
+alerts_file = open(f"data/alerts_history.csv","w")
+alerts_archive_file = open(f"data/archive/alerts_history_{datetime.datetime.utcnow().strftime('%Y_%m_%d_%H_%M_%S')}.csv","w")
 alerts_file.write(alerts_file_headers)
 alerts_archive_file.write(alerts_file_headers)
 

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>discharging sewer outlets</name><Style id="brown-sewer-normal">
+      <IconStyle><color>ff485579</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>0</scale></LabelStyle>
+    </Style>
+    <Style id="brown-sewer-highlight">
+      <IconStyle><color>ff485579</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>1</scale></LabelStyle>
+    </Style>
+    <StyleMap id="brown-sewer">
+      <Pair><key>normal</key><styleUrl>#brown-sewer-normal</styleUrl></Pair>
+      <Pair><key>highlight</key><styleUrl>#brown-sewer-highlight</styleUrl></Pair>
+    </StyleMap>
+    <Style id="amber-sewer-normal">
+      <IconStyle><color>ff00b4f4</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>0</scale></LabelStyle>
+    </Style>
+    <Style id="amber-sewer-highlight">
+      <IconStyle><color>ff00b4f4</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>1</scale></LabelStyle>
+    </Style>
+    <StyleMap id="amber-sewer">
+      <Pair><key>normal</key><styleUrl>#amber-sewer-normal</styleUrl></Pair>
+      <Pair><key>highlight</key><styleUrl>#amber-sewer-highlight</styleUrl></Pair>
+    </StyleMap>
+    <Style id="green-sewer-normal">
+      <IconStyle><color>7CFC00</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>0</scale></LabelStyle>
+    </Style>
+    <Style id="green-sewer-highlight">
+      <IconStyle><color>7CFC00</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>1</scale></LabelStyle>
+    </Style>
+    <StyleMap id="green-sewer">
+      <Pair><key>normal</key><styleUrl>#green-sewer-normal</styleUrl></Pair>
+      <Pair><key>highlight</key><styleUrl>#green-sewer-highlight</styleUrl></Pair>
+    </StyleMap>
+  <Placemark><name>Woodstock</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-04T16:00:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.3485882808973,51.8569842890945,0</coordinates></Point></Placemark>
+<Placemark><name>Witney</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-03-31T03:00:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.49936292597298,51.773296127934,0</coordinates></Point></Placemark>
+<Placemark><name>Wingrave</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-05T06:00:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-0.745463395429434,51.8603719069683,0</coordinates></Point></Placemark>
+<Placemark><name>White Roding</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T08:30:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>0.274454487534053,51.7997492921907,0</coordinates></Point></Placemark>
+<Placemark><name>Weybridge</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T06:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-0.46798524766525,51.3573089145046,0</coordinates></Point></Placemark>
+<Placemark><name>Wanborough</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-05T12:45:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.71059001865574,51.5590249877704,0</coordinates></Point></Placemark>
+<Placemark><name>Upper Richmond Road, Priests Bridge</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T08:00:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-0.252294969807224,51.4657071159749,0</coordinates></Point></Placemark>
+<Placemark><name>Stone</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-03-23T23:30:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-0.86865920434229,51.7887907797394,0</coordinates></Point></Placemark>
+<Placemark><name>Stewkley</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T06:45:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-0.765874366043753,51.9157947126751,0</coordinates></Point></Placemark>
+<Placemark><name>Stanton Harcourt</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T07:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.39023713624203,51.7512021966598,0</coordinates></Point></Placemark>
+<Placemark><name>Standlake</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-03-31T04:00:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.41659503358902,51.7179785278989,0</coordinates></Point></Placemark>
+<Placemark><name>South Moreton</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-03-31T04:45:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.18582104169334,51.5907265865304,0</coordinates></Point></Placemark>
+<Placemark><name>Sevenhampton Village</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-03-22T18:30:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.69929841290903,51.6088986845884,0</coordinates></Point></Placemark>
+<Placemark><name>Selborne</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T05:30:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-0.936286108568785,51.0984847701398,0</coordinates></Point></Placemark>
+<Placemark><name>Oxford</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-05T10:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.2168679929488,51.7159184895809,0</coordinates></Point></Placemark>
+<Placemark><name>Mortimer (Stratfield)</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-03-22T05:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.03217545090237,51.3755563345794,0</coordinates></Point></Placemark>
+<Placemark><name>Moreton-In-Marsh (Primrose Court)</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-05T05:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.69706045966722,51.9878649893174,0</coordinates></Point></Placemark>
+<Placemark><name>Milton-Under-Wychwood</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T05:45:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.60350246783669,51.8635135543172,0</coordinates></Point></Placemark>
+<Placemark><name>Marlborough</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T06:00:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.7120341639883,51.4214585234676,0</coordinates></Point></Placemark>
+<Placemark><name>Lechlade</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T07:45:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.67299524123662,51.6922673681762,0</coordinates></Point></Placemark>
+<Placemark><name>Kingsclere</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-04T06:30:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.23857805743079,51.3443485624722,0</coordinates></Point></Placemark>
+<Placemark><name>Hatfield Heath</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-03-29T20:00:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>0.207064373232821,51.8038215980012,0</coordinates></Point></Placemark>
+<Placemark><name>Hanwell</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T07:45:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.36243336343247,52.0893841425837,0</coordinates></Point></Placemark>
+<Placemark><name>Hampstead Norreys</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T03:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.23534692290237,51.4780352564543,0</coordinates></Point></Placemark>
+<Placemark><name>Gerrards Cross</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T08:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-0.530277806489703,51.5781453674955,0</coordinates></Point></Placemark>
+<Placemark><name>Fleet</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-05T20:30:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-0.846670525259886,51.3019407132188,0</coordinates></Point></Placemark>
+<Placemark><name>Farnborough (Warks)</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-05T20:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.37585986425193,52.1417815250513,0</coordinates></Point></Placemark>
+<Placemark><name>Fairford</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-03-19T06:30:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.7747959810704,51.7019471139209,0</coordinates></Point></Placemark>
+<Placemark><name>Esher</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T08:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-0.377216324402379,51.381625359389,0</coordinates></Point></Placemark>
+<Placemark><name>Drayton (Oxon)</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-03-31T09:45:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.30348717607416,51.6366205224924,0</coordinates></Point></Placemark>
+<Placemark><name>Cottered</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-03-29T20:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-0.0877185728841974,51.9500715215311,0</coordinates></Point></Placemark>
+<Placemark><name>Clanfield</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-03T19:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.58164920516001,51.7142760046913,0</coordinates></Point></Placemark>
+<Placemark><name>Cirencester</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-03-30T02:30:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.94963149848006,51.6698734178344,0</coordinates></Point></Placemark>
+<Placemark><name>Church Hanborough</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T08:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.38881800372144,51.8134135729771,0</coordinates></Point></Placemark>
+<Placemark><name>Chertsey</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-05T05:45:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-0.539354811879941,51.402822188141,0</coordinates></Point></Placemark>
+<Placemark><name>Chalgrove</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T08:00:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.0626365033002,51.6843986383451,0</coordinates></Point></Placemark>
+<Placemark><name>Byfield</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T08:00:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.23584696740875,52.1688288178711,0</coordinates></Point></Placemark>
+<Placemark><name>Burghfield</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-03-18T10:30:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.05354310903747,51.4123278553019,0</coordinates></Point></Placemark>
+<Placemark><name>Bourton-On-The-Water</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-03-29T10:45:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.74549176335022,51.8699299661532,0</coordinates></Point></Placemark>
+<Placemark><name>Boddington</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-03T18:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.30882195148316,52.1679301872915,0</coordinates></Point></Placemark>
+<Placemark><name>Bloxham</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-05T09:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.36461388989874,52.0180093924947,0</coordinates></Point></Placemark>
+<Placemark><name>Bletchingdon</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T05:30:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.26589292399995,51.8527212671353,0</coordinates></Point></Placemark>
+<Placemark><name>Bampton</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T00:00:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.53379924258431,51.7225477376942,0</coordinates></Point></Placemark>
+<Placemark><name>Appleton</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-04-06T06:45:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.36943249240316,51.6951669273965,0</coordinates></Point></Placemark>
+<Placemark><name>Andoversford</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-03-29T11:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.96508980756011,51.8773023432616,0</coordinates></Point></Placemark>
+<Placemark><name>Ampney St Peter</name><description><p><b>Discharging</b></p><p>Discharging Started:2023-03-22T09:15:00</p></description><styleUrl>#brown-sewer</styleUrl><Point><coordinates>-1.88041889560713,51.7056083968623,0</coordinates></Point></Placemark>
+  </Document>
+</kml>

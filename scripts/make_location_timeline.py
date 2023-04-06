@@ -3,9 +3,8 @@ current_location = ""
 current_alert_type = ""
 current_timestamp = 0
 
-header = """
-<html>
-<body>
+header = """<div id="location_alerts" style="height: 100%; width: 100%;"></div>
+
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
 <script type="text/javascript">
@@ -22,21 +21,11 @@ header = """
     dataTable.addColumn({ type: 'date', id: 'Start' });
     dataTable.addColumn({ type: 'date', id: 'End' });
     dataTable.addRows(["""
-footer = """
-    ]);
-    var options = {
-      backgroundColor: '#ffd'
-    };
 
+footer = """]);
     chart.draw(dataTable, options);
   }
-</script>
-
-<div id="location_alerts" style="height: 100%; width: 100%;"></div>
-</body>
-</html>
-
-"""
+</script>"""
 body = []
 
 def process_timestamp(ts):

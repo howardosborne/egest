@@ -4,8 +4,8 @@ current_alert_type = ""
 current_timestamp = 0
 
 file_headers = f"LocationName|PermitNumber|LocationGridRef|X|Y|LATITUDE|LONGITUDE|ReceivingWaterCourse|event|start|end|duration(hh:mm:ss)|duration in seconds\n"
-alerts_file = open(f"../data/processed_alerts_history.csv","w")
-alerts_archive_file = open(f"../data/archive/processed_alerts_history_{datetime.datetime.utcnow().strftime('%Y_%m_%d_%H_%M_%S')}.csv","w")
+alerts_file = open(f"data/processed_alerts_history.csv","w")
+alerts_archive_file = open(f"data/archive/processed_alerts_history_{datetime.datetime.utcnow().strftime('%Y_%m_%d_%H_%M_%S')}.csv","w")
 alerts_file.write(file_headers)
 alerts_archive_file.write(file_headers)
 

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>not discharging sewer outlets</name><Style id="brown-sewer-normal">
+      <IconStyle><color>ff485579</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>0</scale></LabelStyle>
+    </Style>
+    <Style id="brown-sewer-highlight">
+      <IconStyle><color>ff485579</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>1</scale></LabelStyle>
+    </Style>
+    <StyleMap id="brown-sewer">
+      <Pair><key>normal</key><styleUrl>#brown-sewer-normal</styleUrl></Pair>
+      <Pair><key>highlight</key><styleUrl>#brown-sewer-highlight</styleUrl></Pair>
+    </StyleMap>
+    <Style id="amber-sewer-normal">
+      <IconStyle><color>ff00b4f4</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>0</scale></LabelStyle>
+    </Style>
+    <Style id="amber-sewer-highlight">
+      <IconStyle><color>ff00b4f4</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>1</scale></LabelStyle>
+    </Style>
+    <StyleMap id="amber-sewer">
+      <Pair><key>normal</key><styleUrl>#amber-sewer-normal</styleUrl></Pair>
+      <Pair><key>highlight</key><styleUrl>#amber-sewer-highlight</styleUrl></Pair>
+    </StyleMap>
+    <Style id="green-sewer-normal">
+      <IconStyle><color>7CFC00</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>0</scale></LabelStyle>
+    </Style>
+    <Style id="green-sewer-highlight">
+      <IconStyle><color>7CFC00</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>1</scale></LabelStyle>
+    </Style>
+    <StyleMap id="green-sewer">
+      <Pair><key>normal</key><styleUrl>#green-sewer-normal</styleUrl></Pair>
+      <Pair><key>highlight</key><styleUrl>#green-sewer-highlight</styleUrl></Pair>
+    </StyleMap>
+  <Placemark><name>Wynters Brook, Hastingwood</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.155572578973027,51.749113331746,0</coordinates></Point></Placemark>
+<Placemark><name>Worple Road, SW19</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.249629511257783,51.4149497253427,0</coordinates></Point></Placemark>
+<Placemark><name>Worminghall</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.05927411171914,51.7768032455747,0</coordinates></Point></Placemark>
+<Placemark><name>Woodford Halse</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.21778616357127,52.1648445095168,0</coordinates></Point></Placemark>
+<Placemark><name>Wood Street</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.124465826982521,51.4969145318802,0</coordinates></Point></Placemark>
+<Placemark><name>Woking</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.519860440283044,51.3074386106479,0</coordinates></Point></Placemark>
+<Placemark><name>Winterbourne</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.34596249710674,51.4458845490519,0</coordinates></Point></Placemark>
+<Placemark><name>Windsor</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.566156631991493,51.4651992454848,0</coordinates></Point></Placemark>
+<Placemark><name>Willingale</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.300701599674649,51.7397964766638,0</coordinates></Point></Placemark>
+<Placemark><name>Widford And Wareside</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0543762450057863,51.827271355298,0</coordinates></Point></Placemark>
+<Placemark><name>Whitwell</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.270559584065816,51.8725127787951,0</coordinates></Point></Placemark>
+<Placemark><name>White Waltham</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.755465443894344,51.491639415844,0</coordinates></Point></Placemark>
+<Placemark><name>Westway Close</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.235956013611411,51.4040435866586,0</coordinates></Point></Placemark>
+<Placemark><name>Weston-On-The-Green STW</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.22247257727925,51.8532515999062,0</coordinates></Point></Placemark>
+<Placemark><name>Weston-On-The-Green SPS</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.22175756269684,51.8526174955248,0</coordinates></Point></Placemark>
+<Placemark><name>Weston (Herts)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.145477059067961,51.9503661484102,0</coordinates></Point></Placemark>
+<Placemark><name>Western Way</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.18979483292522,51.6405601614143,0</coordinates></Point></Placemark>
+<Placemark><name>Western PS Low Lever Sewer</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.148695232025545,51.48560924228,0</coordinates></Point></Placemark>
+<Placemark><name>West Way, Botley (Syphon)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.29692370599962,51.7526593584894,0</coordinates></Point></Placemark>
+<Placemark><name>West Putney S R, Horne Way</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.224723157627427,51.4713178453282,0</coordinates></Point></Placemark>
+<Placemark><name>West Heath Ramsdell</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.14955567918042,51.3213463822934,0</coordinates></Point></Placemark>
+<Placemark><name>West End, Essendon</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.164085112994453,51.7617357837096,0</coordinates></Point></Placemark>
+<Placemark><name>Wealdbridge, North Weald</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.185362454522869,51.7359734043317,0</coordinates></Point></Placemark>
+<Placemark><name>Watlington</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.02713882727037,51.6533591610401,0</coordinates></Point></Placemark>
+<Placemark><name>Watery Lane, Startops End</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.66986812865803,51.8188100472153,0</coordinates></Point></Placemark>
+<Placemark><name>Water End</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.00648512621428,51.2746306562252,0</coordinates></Point></Placemark>
+<Placemark><name>Warmington</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.39518104734371,52.1285760425578,0</coordinates></Point></Placemark>
+<Placemark><name>Wargrave</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.883276184082253,51.4897786570145,0</coordinates></Point></Placemark>
+<Placemark><name>Wardington</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.28387003231868,52.1192319254693,0</coordinates></Point></Placemark>
+<Placemark><name>Wandle Valley</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.188439602626589,51.4640184839503,0</coordinates></Point></Placemark>
+<Placemark><name>Waddesdon</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.914186353983153,51.8551265276163,0</coordinates></Point></Placemark>
+<Placemark><name>Vauxhall Motors</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.404864098303086,51.8743203830013,0</coordinates></Point></Placemark>
+<Placemark><name>Trumps Green</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.611243993933253,51.7813567149913,0</coordinates></Point></Placemark>
+<Placemark><name>Trumpers Way, W7</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.344696070607113,51.498251378964,0</coordinates></Point></Placemark>
+<Placemark><name>Tring</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.661139588301039,51.8098093715397,0</coordinates></Point></Placemark>
+<Placemark><name>Tideway CSO (Offline)</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0951523375476308,51.5137898055291,0</coordinates></Point></Placemark>
+<Placemark><name>Thornwood</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.137015057662688,51.7242731559697,0</coordinates></Point></Placemark>
+<Placemark><name>Therfield</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0457676664922233,51.9945223804245,0</coordinates></Point></Placemark>
+<Placemark><name>The Willows, North Hinksey Lane</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.28427610256189,51.7462891852513,0</coordinates></Point></Placemark>
+<Placemark><name>The Broadway (Ray Park 2)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0420916625919533,51.6002459808204,0</coordinates></Point></Placemark>
+<Placemark><name>Thame</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.970613319250424,51.7556500794609,0</coordinates></Point></Placemark>
+<Placemark><name>Tetsworth</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.01028995312612,51.7167882271042,0</coordinates></Point></Placemark>
+<Placemark><name>Temple Place Essex Street</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.111932912186193,51.510831729687,0</coordinates></Point></Placemark>
+<Placemark><name>Taylors Crescent, Cranleigh</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.475860322421601,51.1413209811235,0</coordinates></Point></Placemark>
+<Placemark><name>Takeley - Garnetts</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.261643713525424,51.8712178453248,0</coordinates></Point></Placemark>
+<Placemark><name>Takeley</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.248312907738481,51.8660778987854,0</coordinates></Point></Placemark>
+<Placemark><name>Tackley</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.30147021884627,51.8804504485813,0</coordinates></Point></Placemark>
+<Placemark><name>Swindon (Rodbourne)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.81742280922342,51.5728165496328,0</coordinates></Point></Placemark>
+<Placemark><name>Swains Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.14128204237731,51.3494307997456,0</coordinates></Point></Placemark>
+<Placemark><name>Sunnyside Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0842396661203093,51.5525631631872,0</coordinates></Point></Placemark>
+<Placemark><name>Sudbury Heights Ave, Allendale Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.299312732693112,51.5524551971606,0</coordinates></Point></Placemark>
+<Placemark><name>Streatham Vale Storm Relief</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.140336648180382,51.4148851187473,0</coordinates></Point></Placemark>
+<Placemark><name>Streatham Storm Relief</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.146252850911639,51.417946417599,0</coordinates></Point></Placemark>
+<Placemark><name>Streatham &amp; Balham Storm Relief</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.173382395841293,51.4228686873615,0</coordinates></Point></Placemark>
+<Placemark><name>Stonebridge SSO, Brockham</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.294482526923761,51.2335107889124,0</coordinates></Point></Placemark>
+<Placemark><name>Stonebridge Brook</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0606680560346812,51.5811263593408,0</coordinates></Point></Placemark>
+<Placemark><name>Stanton St John</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.15192484005106,51.7829026688371,0</coordinates></Point></Placemark>
+<Placemark><name>Stanford-In-The-Vale</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.50407640448506,51.6339520697662,0</coordinates></Point></Placemark>
+<Placemark><name>Standon</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0282836059921385,51.8763724048088,0</coordinates></Point></Placemark>
+<Placemark><name>Stamford Brook</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.23406401859517,51.4904329628293,0</coordinates></Point></Placemark>
+<Placemark><name>St Jamess Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.304699935218109,51.407396244694,0</coordinates></Point></Placemark>
+<Placemark><name>St Andrews Road, Black Horse Lane</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0409824992778378,51.5924896615461,0</coordinates></Point></Placemark>
+<Placemark><name>SSO, Junction Crane Valley/Bathroadse</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.416595815093071,51.481349510955,0</coordinates></Point></Placemark>
+<Placemark><name>Spooks Hill, North Holmwood</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.328394047753027,51.2147556568644,0</coordinates></Point></Placemark>
+<Placemark><name>South Park, Ilford</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0924349428812154,51.5582625534723,0</coordinates></Point></Placemark>
+<Placemark><name>South Norwood</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0582806491287871,51.399885305622,0</coordinates></Point></Placemark>
+<Placemark><name>South Ealing Road, W5</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.301498075533668,51.4976337391531,0</coordinates></Point></Placemark>
+<Placemark><name>South Close, Barnet</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.19616774353199,51.6547760839088,0</coordinates></Point></Placemark>
+<Placemark><name>Sonning Common</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.96825531861925,51.5089900265054,0</coordinates></Point></Placemark>
+<Placemark><name>Smith Street</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.156515189365375,51.4845634119113,0</coordinates></Point></Placemark>
+<Placemark><name>Slough</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.64172650357937,51.5043151223206,0</coordinates></Point></Placemark>
+<Placemark><name>Sloane Street, Raneleigh Gardens</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.153758586409735,51.4850595945007,0</coordinates></Point></Placemark>
+<Placemark><name>Shotteswell</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.37617819510058,52.1085178698137,0</coordinates></Point></Placemark>
+<Placemark><name>Sherfield-On-Loddon</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.02927065426483,51.3226594755477,0</coordinates></Point></Placemark>
+<Placemark><name>Shamley Green (Wonersh)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.541692357521424,51.1843356282496,0</coordinates></Point></Placemark>
+<Placemark><name>Shad, Thames</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0727952041682806,51.5025514411403,0</coordinates></Point></Placemark>
+<Placemark><name>Shabbington</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.04163705262231,51.7609259808227,0</coordinates></Point></Placemark>
+<Placemark><name>Savoy Street</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.11861697005398,51.5095003343282,0</coordinates></Point></Placemark>
+<Placemark><name>Sandhurst</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.801182912337404,51.3410494982524,0</coordinates></Point></Placemark>
+<Placemark><name>Salfords, Surrey</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.167997137279878,51.2047103940844,0</coordinates></Point></Placemark>
+<Placemark><name>Rye Meads</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0202671775056767,51.7752573158125,0</coordinates></Point></Placemark>
+<Placemark><name>Rusper</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.284468225295529,51.1156033798683,0</coordinates></Point></Placemark>
+<Placemark><name>Rowsham</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.769234485687555,51.8513618095264,0</coordinates></Point></Placemark>
+<Placemark><name>Rotherwick</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.971362487470225,51.3066989790042,0</coordinates></Point></Placemark>
+<Placemark><name>Roding Valley</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0684665464397075,51.5546408730942,0</coordinates></Point></Placemark>
+<Placemark><name>Road A3, Roehampton Vale</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.253824249513904,51.4369540053382,0</coordinates></Point></Placemark>
+<Placemark><name>Road A217, Burgh Heath</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.221248597935795,51.301305171686,0</coordinates></Point></Placemark>
+<Placemark><name>Riverside</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.182305673041656,51.5158874619806,0</coordinates></Point></Placemark>
+<Placemark><name>River Lane</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.356087897012515,51.3014772847438,0</coordinates></Point></Placemark>
+<Placemark><name>Ripley</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.502423056563172,51.3054184430408,0</coordinates></Point></Placemark>
+<Placemark><name>Reading, Caversham</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.953416869621476,51.4647986875547,0</coordinates></Point></Placemark>
+<Placemark><name>Reading, Blakes Lock</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.955081940178532,51.4549224899144,0</coordinates></Point></Placemark>
+<Placemark><name>Ray Lodge Road (Ray Park 1)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0471723979740889,51.6072616290386,0</coordinates></Point></Placemark>
+<Placemark><name>Ratley</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.44013234678916,52.1202568352003,0</coordinates></Point></Placemark>
+<Placemark><name>Ratcliffe Highway Limekiln</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0415030211048885,51.5098566191026,0</coordinates></Point></Placemark>
+<Placemark><name>Ramsbury</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.58627844750447,51.4441908913161,0</coordinates></Point></Placemark>
+<Placemark><name>Queen Street</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.164187256695986,51.4836046715904,0</coordinates></Point></Placemark>
+<Placemark><name>Putney Bridge Street</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.213983191361585,51.4661189511577,0</coordinates></Point></Placemark>
+<Placemark><name>Purton</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.87274943850922,51.6020213704982,0</coordinates></Point></Placemark>
+<Placemark><name>Puller Rd/Calvert Rd Storm, Barnet</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.208990334384118,51.6595583884464,0</coordinates></Point></Placemark>
+<Placemark><name>Prospect Road, Woodford</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0415137410066595,51.6131154522302,0</coordinates></Point></Placemark>
+<Placemark><name>Priory Road, Dartford (Foul)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.213391477913595,51.4494761707158,0</coordinates></Point></Placemark>
+<Placemark><name>Priory Lane Storm, Mortlake</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.252298403550417,51.4656172426674,0</coordinates></Point></Placemark>
+<Placemark><name>Princes Risborough</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.845572670632662,51.7276041011281,0</coordinates></Point></Placemark>
+<Placemark><name>Princes Avenue</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0481919400388552,51.6106610314211,0</coordinates></Point></Placemark>
+<Placemark><name>Portsmouth Road, Uxbridge Road</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.309900777511344,51.3989285090205,0</coordinates></Point></Placemark>
+<Placemark><name>Pinkham Way Storm Sewage O/F, London</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.14323590153983,51.6092591230251,0</coordinates></Point></Placemark>
+<Placemark><name>Petersham Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.304769382615205,51.4560463588466,0</coordinates></Point></Placemark>
+<Placemark><name>Penwith Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.190159629967909,51.442373040978,0</coordinates></Point></Placemark>
+<Placemark><name>Pease Pottage</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.201343941448584,51.076178841077,0</coordinates></Point></Placemark>
+<Placemark><name>Pauls Pier</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0992519739717447,51.5108067546926,0</coordinates></Point></Placemark>
+<Placemark><name>Passfield</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.829764106605304,51.1034023442854,0</coordinates></Point></Placemark>
+<Placemark><name>Park Town South &amp; West, Luton</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.403463044809788,51.8728627059276,0</coordinates></Point></Placemark>
+<Placemark><name>Pangbourne</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.07350475465481,51.4846914900102,0</coordinates></Point></Placemark>
+<Placemark><name>Outside 135 Leeside Crescent (Formerly Brookside Road, Golders Green)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.207911153483757,51.5805896885962,0</coordinates></Point></Placemark>
+<Placemark><name>Outside 115 Wentworth Road</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.202518485351358,51.5782591302224,0</coordinates></Point></Placemark>
+<Placemark><name>Ockley Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.435805870451924,51.1505942192547,0</coordinates></Point></Placemark>
+<Placemark><name>Ockham Road South Foul Sewer Overflow</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.43220723071122,51.2735652114588,0</coordinates></Point></Placemark>
+<Placemark><name>Oakentrough</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0681546293803811,51.5350422499919,0</coordinates></Point></Placemark>
+<Placemark><name>Nutter Lane / Preston Drive, Wanstead</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0424589653251607,51.5794666295262,0</coordinates></Point></Placemark>
+<Placemark><name>Northumberland Street</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.122206325905405,51.5063205446957,0</coordinates></Point></Placemark>
+<Placemark><name>Northleach</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.82249134707637,51.8273641992828,0</coordinates></Point></Placemark>
+<Placemark><name>North West Storm Relief</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.229382887452997,51.4885638903,0</coordinates></Point></Placemark>
+<Placemark><name>North Weald</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.163948279484166,51.7212622033373,0</coordinates></Point></Placemark>
+<Placemark><name>Norfolk Street</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.114104309077561,51.510596888856,0</coordinates></Point></Placemark>
+<Placemark><name>Newmans Lane</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.963327114999141,51.1537607999382,0</coordinates></Point></Placemark>
+<Placemark><name>Newbury</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.28413037346355,51.397147892013,0</coordinates></Point></Placemark>
+<Placemark><name>New Mill (Eversley Lower Common)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.909847799349265,51.3599152386597,0</coordinates></Point></Placemark>
+<Placemark><name>New Bedford Road, Luton</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.41980754056835,51.8831540475728,0</coordinates></Point></Placemark>
+<Placemark><name>Ne Storm Relief Shadwell, King Edward Mem Park</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0474496456900054,51.5089665846074,0</coordinates></Point></Placemark>
+<Placemark><name>Nags Head Lane (Brentwood)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.254563250972918,51.6013924319747,0</coordinates></Point></Placemark>
+<Placemark><name>Mulberry Court, Hall Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0107605624301513,51.5506154129317,0</coordinates></Point></Placemark>
+<Placemark><name>Moreton-In-Marsh</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.69836258718054,51.9891270319933,0</coordinates></Point></Placemark>
+<Placemark><name>Moreton Pinkney</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.16293349610795,52.14289049133,0</coordinates></Point></Placemark>
+<Placemark><name>Mogden</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.320652943876683,51.4664363388526,0</coordinates></Point></Placemark>
+<Placemark><name>Millbank, Crawley</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.222731734270072,51.1140967326724,0</coordinates></Point></Placemark>
+<Placemark><name>Mill Green (Hatfield)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.193299725397729,51.7740580551141,0</coordinates></Point></Placemark>
+<Placemark><name>Midgham</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.20109153714889,51.4029056998068,0</coordinates></Point></Placemark>
+<Placemark><name>Middleton Stoney</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.21919909909026,51.9081653932219,0</coordinates></Point></Placemark>
+<Placemark><name>Middleton Cheney</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.26312609999404,52.0663285663134,0</coordinates></Point></Placemark>
+<Placemark><name>Middle Barton</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.35094316207399,51.9254187918527,0</coordinates></Point></Placemark>
+<Placemark><name>Merstham</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.143129236201425,51.2535095140047,0</coordinates></Point></Placemark>
+<Placemark><name>Marsworth</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.672211938251637,51.8279179780484,0</coordinates></Point></Placemark>
+<Placemark><name>Marsh Lane Bridge, Taplow</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.678574858301036,51.5105807886093,0</coordinates></Point></Placemark>
+<Placemark><name>Marsh Gibbon</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.06547952596445,51.8973351469294,0</coordinates></Point></Placemark>
+<Placemark><name>Markyate</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.441654908310035,51.8269775234986,0</coordinates></Point></Placemark>
+<Placemark><name>Markenfield Road, Guildford</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.579237106288691,51.2429790189559,0</coordinates></Point></Placemark>
+<Placemark><name>Mapleton Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.193013142181294,51.4539275106722,0</coordinates></Point></Placemark>
+<Placemark><name>Maple Lodge</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.497417967969836,51.6205312781699,0</coordinates></Point></Placemark>
+<Placemark><name>Manor Farm</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.947742728511879,51.7111197309335,0</coordinates></Point></Placemark>
+<Placemark><name>Manor Drive Stormwater Tanks</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.262414762010537,51.3583969886561,0</coordinates></Point></Placemark>
+<Placemark><name>Maidenhead</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.711530720118985,51.5172417405303,0</coordinates></Point></Placemark>
+<Placemark><name>Lytton Road SSO</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.175741978572983,51.6522124761995,0</coordinates></Point></Placemark>
+<Placemark><name>Lyon Park Avenue</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.294404833073083,51.5486971207264,0</coordinates></Point></Placemark>
+<Placemark><name>Luton</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.375066563993567,51.8506239754446,0</coordinates></Point></Placemark>
+<Placemark><name>Ludgershall</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.04137181221043,51.8623454392333,0</coordinates></Point></Placemark>
+<Placemark><name>Lower Cherwell St, Banbury</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.32903974272086,52.058180866553,0</coordinates></Point></Placemark>
+<Placemark><name>Low Level 1 N, Grosvenor Ditch, Millb</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.124912359798508,51.4930548760744,0</coordinates></Point></Placemark>
+<Placemark><name>Low Hall Farm Storm Tanks, Walthamstow</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.03437728430808,51.5749336991356,0</coordinates></Point></Placemark>
+<Placemark><name>Longstone Ave, Drayton Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.25571103376751,51.5497468751107,0</coordinates></Point></Placemark>
+<Placemark><name>Longley Road (1), Tooting High Street</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.173242233622938,51.4227765769094,0</coordinates></Point></Placemark>
+<Placemark><name>Longbridge Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.11450691792058,51.5520215151062,0</coordinates></Point></Placemark>
+<Placemark><name>Long Reach</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.239287853723165,51.4698481609953,0</coordinates></Point></Placemark>
+<Placemark><name>Long Crendon</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.987249195475866,51.769731207604,0</coordinates></Point></Placemark>
+<Placemark><name>London Road, Marlborough</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.72383222642477,51.4205877244988,0</coordinates></Point></Placemark>
+<Placemark><name>London Bridge</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.086945701388316,51.5087182276592,0</coordinates></Point></Placemark>
+<Placemark><name>Littlemore Low Level</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.24136745028088,51.7223730780865,0</coordinates></Point></Placemark>
+<Placemark><name>Littlemead Ind Estate, Cranleigh</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.502759131616374,51.140589293343,0</coordinates></Point></Placemark>
+<Placemark><name>Little Milton</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.10282318917825,51.700357419837,0</coordinates></Point></Placemark>
+<Placemark><name>Little Marlow</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.735737796218536,51.574693489319,0</coordinates></Point></Placemark>
+<Placemark><name>Little Hallingbury</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.167534121770535,51.8354912565001,0</coordinates></Point></Placemark>
+<Placemark><name>Little Compton</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.63384520068619,51.971861827205,0</coordinates></Point></Placemark>
+<Placemark><name>Lindsay Drive, Falcon Way</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.293029285800691,51.581588810668,0</coordinates></Point></Placemark>
+<Placemark><name>Lightwater</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.652321109262201,51.3501324223075,0</coordinates></Point></Placemark>
+<Placemark><name>Leopold Road, Church Path</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.25571103376751,51.5497468751107,0</coordinates></Point></Placemark>
+<Placemark><name>Leeside Crescent</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.207506706612499,51.5798641247996,0</coordinates></Point></Placemark>
+<Placemark><name>Leatherhead</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.355932612771356,51.3098381934784,0</coordinates></Point></Placemark>
+<Placemark><name>Leaden Roding</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.30665020904011,51.7939960610683,0</coordinates></Point></Placemark>
+<Placemark><name>Knowle Lane, Cranleigh</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.490812006290054,51.1387271345466,0</coordinates></Point></Placemark>
+<Placemark><name>Knights Lane</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.39373312948181,51.3698914358492,0</coordinates></Point></Placemark>
+<Placemark><name>Kintbury</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.43356572387127,51.4015617518479,0</coordinates></Point></Placemark>
+<Placemark><name>Kingston Main</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.307505409739071,51.4131919738159,0</coordinates></Point></Placemark>
+<Placemark><name>Kings Sutton</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.26918672784033,52.0167370332287,0</coordinates></Point></Placemark>
+<Placemark><name>Kings Scholars Pond</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.130939190509015,51.4865865270361,0</coordinates></Point></Placemark>
+<Placemark><name>Kings Avenue</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0481919400388552,51.6106610314211,0</coordinates></Point></Placemark>
+<Placemark><name>Kingham</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.6253532966172,51.9078204135007,0</coordinates></Point></Placemark>
+<Placemark><name>Kimpton Road (Vauxhall Rd)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.390578582587566,51.8675618786663,0</coordinates></Point></Placemark>
+<Placemark><name>Kilda Road</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.71964055228902,51.6354733117217,0</coordinates></Point></Placemark>
+<Placemark><name>Kew Transfer</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.276258039516789,51.4792807052529,0</coordinates></Point></Placemark>
+<Placemark><name>Kendal Road, Cullingworth Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.244650635716204,51.556056404595,0</coordinates></Point></Placemark>
+<Placemark><name>Kempsford</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.76176214285044,51.6763864591954,0</coordinates></Point></Placemark>
+<Placemark><name>Jews Row Pumping Station (Falconbrook Storm Relief)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.188738030245438,51.4637533190173,0</coordinates></Point></Placemark>
+<Placemark><name>Iver (North)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.497669977242048,51.5165863189353,0</coordinates></Point></Placemark>
+<Placemark><name>Isle Of Dogs, London</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.00752075373469071,51.4993023372617,0</coordinates></Point></Placemark>
+<Placemark><name>Ironsbottom (Sidlow)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.211835127362908,51.2038598022002,0</coordinates></Point></Placemark>
+<Placemark><name>Iron Gate</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0747921635799024,51.5064510566123,0</coordinates></Point></Placemark>
+<Placemark><name>Hungerford</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.49267978126463,51.4117232574995,0</coordinates></Point></Placemark>
+<Placemark><name>Huckers Lane (Selbourne)</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.938831558065412,51.0995869845715,0</coordinates></Point></Placemark>
+<Placemark><name>Horton-Cum-Studley</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.12311673303999,51.8032813803114,0</coordinates></Point></Placemark>
+<Placemark><name>Hornton</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.42199446269907,52.0997606207658,0</coordinates></Point></Placemark>
+<Placemark><name>Horley (Surrey)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.187532053827068,51.1774963605182,0</coordinates></Point></Placemark>
+<Placemark><name>Horley (Oxon)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.38508669537838,52.0871668516696,0</coordinates></Point></Placemark>
+<Placemark><name>Hook Norton</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.46394012300723,51.9982737321677,0</coordinates></Point></Placemark>
+<Placemark><name>Honeypot Lane</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.285745338774591,51.5948810832449,0</coordinates></Point></Placemark>
+<Placemark><name>Holybourne</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.95017728951343,51.1598482391564,0</coordinates></Point></Placemark>
+<Placemark><name>Holmwood</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.299624996739237,51.1911398059566,0</coordinates></Point></Placemark>
+<Placemark><name>Holloway Storm Sewer</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0406389711456526,51.5098421868448,0</coordinates></Point></Placemark>
+<Placemark><name>Hogsmill</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.287733158467019,51.403552584283,0</coordinates></Point></Placemark>
+<Placemark><name>Hockford (Pirbright)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.626599642784986,51.2786146083557,0</coordinates></Point></Placemark>
+<Placemark><name>Hillside Avenue</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0481919400388552,51.6106610314211,0</coordinates></Point></Placemark>
+<Placemark><name>Highworth Eastrop</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.699424052821,51.6336250944008,0</coordinates></Point></Placemark>
+<Placemark><name>Highworth</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.71540709269813,51.6423864193897,0</coordinates></Point></Placemark>
+<Placemark><name>Highfield Road Jct With Brookside Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.206912047148002,51.5803046574406,0</coordinates></Point></Placemark>
+<Placemark><name>High Wycombe</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.723071315953717,51.6198751548314,0</coordinates></Point></Placemark>
+<Placemark><name>High Road, Woodford</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0408175998861288,51.5847109139388,0</coordinates></Point></Placemark>
+<Placemark><name>Heyford</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.28477943003844,51.9252153579605,0</coordinates></Point></Placemark>
+<Placemark><name>Henley Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0575647136809568,51.4984481791002,0</coordinates></Point></Placemark>
+<Placemark><name>Henley</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.904556744475865,51.5513933151749,0</coordinates></Point></Placemark>
+<Placemark><name>Heath Wall PS</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.135957857667663,51.4836089455055,0</coordinates></Point></Placemark>
+<Placemark><name>Haslemere</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.7479795737179,51.0853795623448,0</coordinates></Point></Placemark>
+<Placemark><name>Hartley Wintney</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.900978401542125,51.3164006685457,0</coordinates></Point></Placemark>
+<Placemark><name>Harpenden</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.331510203882008,51.8191722081271,0</coordinates></Point></Placemark>
+<Placemark><name>Hannington</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.7453359248339,51.639757686459,0</coordinates></Point></Placemark>
+<Placemark><name>Hamstead Marshall</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.40187599888693,51.3844100018477,0</coordinates></Point></Placemark>
+<Placemark><name>Hammersmith</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.228416992854987,51.487470209341,0</coordinates></Point></Placemark>
+<Placemark><name>Hambleden</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.867648403326956,51.5566179174153,0</coordinates></Point></Placemark>
+<Placemark><name>Hadham Mill</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0713847806393107,51.840551389159,0</coordinates></Point></Placemark>
+<Placemark><name>Haddenham</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.923245250480642,51.761429883121,0</coordinates></Point></Placemark>
+<Placemark><name>Gun Wharf (Wapping Dock)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0560200627144039,51.5039831671621,0</coordinates></Point></Placemark>
+<Placemark><name>Guildford</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.562611398704681,51.2569841314687,0</coordinates></Point></Placemark>
+<Placemark><name>Grendon Underwood</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.01357976521782,51.8847735919625,0</coordinates></Point></Placemark>
+<Placemark><name>Greenwich</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0112326051053905,51.4835382125053,0</coordinates></Point></Placemark>
+<Placemark><name>Greatworth</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.19981004951184,52.0747268301339,0</coordinates></Point></Placemark>
+<Placemark><name>Great Bedwyn</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.59387599683297,51.3824448198762,0</coordinates></Point></Placemark>
+<Placemark><name>Goswell Street</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0928200503835668,51.5095333062949,0</coordinates></Point></Placemark>
+<Placemark><name>Goring</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.13785503154258,51.5394917679684,0</coordinates></Point></Placemark>
+<Placemark><name>Gordon Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0692634603449575,51.5499506114496,0</coordinates></Point></Placemark>
+<Placemark><name>Godalming</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.579064809456814,51.2020611185712,0</coordinates></Point></Placemark>
+<Placemark><name>Gascoigne Rd Storm Tanks, Beckton</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0844857723423754,51.5263899030931,0</coordinates></Point></Placemark>
+<Placemark><name>Garden Way</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.270828987882554,51.5466434962271,0</coordinates></Point></Placemark>
+<Placemark><name>Gap Road (Cemetery)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.190862737609492,51.4318626043046,0</coordinates></Point></Placemark>
+<Placemark><name>Fyfield (Wilts)</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.78455113392907,51.4141510374096,0</coordinates></Point></Placemark>
+<Placemark><name>Friday Street, Henley</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.901272250721693,51.5380547969447,0</coordinates></Point></Placemark>
+<Placemark><name>Forest Hill</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.14494772859762,51.7685560259555,0</coordinates></Point></Placemark>
+<Placemark><name>Folkestone Rd Tanks, East Ham</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0761094573015089,51.5292362945749,0</coordinates></Point></Placemark>
+<Placemark><name>Fleet Main Line Sewer</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.104296286016339,51.5107984706371,0</coordinates></Point></Placemark>
+<Placemark><name>Finstock</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.46700889555297,51.8500276610088,0</coordinates></Point></Placemark>
+<Placemark><name>Field End Rd Storm (Harrow)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.380707800187304,51.5593617077761,0</coordinates></Point></Placemark>
+<Placemark><name>Fergusson Road, Banbury</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.32876458780672,52.0668104180206,0</coordinates></Point></Placemark>
+<Placemark><name>Farnham</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.774416202502813,51.2248625188765,0</coordinates></Point></Placemark>
+<Placemark><name>Falcon Brook</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.180466553155505,51.4690207592956,0</coordinates></Point></Placemark>
+<Placemark><name>Eydon</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.20479410385643,52.1473157800811,0</coordinates></Point></Placemark>
+<Placemark><name>Essendon, Holywell Bridge</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.152096044339383,51.7714392552827,0</coordinates></Point></Placemark>
+<Placemark><name>Epsom Storm Tanks, Longmead Road</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.262630869802221,51.3450911489011,0</coordinates></Point></Placemark>
+<Placemark><name>Epping</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.136649636990192,51.682734013832,0</coordinates></Point></Placemark>
+<Placemark><name>Elvetham Close</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.848419523419438,51.289368880029,0</coordinates></Point></Placemark>
+<Placemark><name>Elmcroft Avenue, Wanstead</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0395234842775225,51.5848233393122,0</coordinates></Point></Placemark>
+<Placemark><name>Easthampstead Park</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.793135797060794,51.3905133980362,0</coordinates></Point></Placemark>
+<Placemark><name>Eastcote Avenue</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.294257320451304,51.5487848991723,0</coordinates></Point></Placemark>
+<Placemark><name>East Shefford</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.43461515942876,51.4680151939385,0</coordinates></Point></Placemark>
+<Placemark><name>East Grafton</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.62965284112501,51.347135914643,0</coordinates></Point></Placemark>
+<Placemark><name>East Garston</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.47285320359333,51.4853671593341,0</coordinates></Point></Placemark>
+<Placemark><name>Earlswood Common, S Of Pendleton Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.184189658967523,51.2224989186387,0</coordinates></Point></Placemark>
+<Placemark><name>Earlswood (Reigate)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.179532723170773,51.2171207691814,0</coordinates></Point></Placemark>
+<Placemark><name>Earl</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0319909490253022,51.4931509103425,0</coordinates></Point></Placemark>
+<Placemark><name>Duntshill Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.191299445370389,51.442660409738,0</coordinates></Point></Placemark>
+<Placemark><name>Draycot Foliat</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.73200881957909,51.49793400081,0</coordinates></Point></Placemark>
+<Placemark><name>Dorton</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.00841663505672,51.8222411135862,0</coordinates></Point></Placemark>
+<Placemark><name>Dorking Road</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.239312689974309,51.2790964167178,0</coordinates></Point></Placemark>
+<Placemark><name>Dorking</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.314653058286689,51.2420762797332,0</coordinates></Point></Placemark>
+<Placemark><name>Dorchester</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.16312801837745,51.6394808243668,0</coordinates></Point></Placemark>
+<Placemark><name>District Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.299312732693112,51.5524551971606,0</coordinates></Point></Placemark>
+<Placemark><name>Deptford Storm Relief</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0222641789997755,51.4848938523416,0</coordinates></Point></Placemark>
+<Placemark><name>Deptford Creek Storm</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0229679038995891,51.475283540995,0</coordinates></Point></Placemark>
+<Placemark><name>Deephams</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0417846384874434,51.6208294085752,0</coordinates></Point></Placemark>
+<Placemark><name>Dean Oak Lane</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.229695894934966,51.1935198466311,0</coordinates></Point></Placemark>
+<Placemark><name>Dartford Creek Storm</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.21090628796345,51.4576167988358,0</coordinates></Point></Placemark>
+<Placemark><name>Daintry Close</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.322169719760653,51.589832240062,0</coordinates></Point></Placemark>
+<Placemark><name>Dagnall</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.555778492559737,51.8295132155362,0</coordinates></Point></Placemark>
+<Placemark><name>Culworth</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.20536350088711,52.1153127097363,0</coordinates></Point></Placemark>
+<Placemark><name>Cuddington</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.93113953136177,51.8014237102572,0</coordinates></Point></Placemark>
+<Placemark><name>Crossness</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.13849887535853,51.5099498218484,0</coordinates></Point></Placemark>
+<Placemark><name>Cropredy</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.31596256017395,52.1122298488932,0</coordinates></Point></Placemark>
+<Placemark><name>Crooked Billet</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.94368736285934,51.2873894053501,0</coordinates></Point></Placemark>
+<Placemark><name>Crondall</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.861843527610554,51.2394134969434,0</coordinates></Point></Placemark>
+<Placemark><name>Crofton Road, Sunnydale</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0602946141737911,51.3735794470038,0</coordinates></Point></Placemark>
+<Placemark><name>Crawley</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.156976380172968,51.1472521846567,0</coordinates></Point></Placemark>
+<Placemark><name>Cranleigh</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.514258349718593,51.1430740234576,0</coordinates></Point></Placemark>
+<Placemark><name>Counters Creek, Lots Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.178497176665632,51.4787021003758,0</coordinates></Point></Placemark>
+<Placemark><name>Corbett Rd / Redbridge Lane, Wanstead</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0366644320436792,51.5760871971836,0</coordinates></Point></Placemark>
+<Placemark><name>Coppice Green, Bracknell</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.766017815372137,51.426199286517,0</coordinates></Point></Placemark>
+<Placemark><name>Compton (Berks)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.24349940434561,51.5074908069564,0</coordinates></Point></Placemark>
+<Placemark><name>Commonside</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.376446673896618,51.2936680172132,0</coordinates></Point></Placemark>
+<Placemark><name>Colgate</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.243027885285154,51.0837374426636,0</coordinates></Point></Placemark>
+<Placemark><name>Codicote</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.23029496699423,51.8472761306924,0</coordinates></Point></Placemark>
+<Placemark><name>Cobham Bridge, Adj Cobham PS</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.423928627585006,51.3353224949961,0</coordinates></Point></Placemark>
+<Placemark><name>Clifton</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.28637880044478,51.9802495717841,0</coordinates></Point></Placemark>
+<Placemark><name>Churt</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.782353568270478,51.1356509237469,0</coordinates></Point></Placemark>
+<Placemark><name>Church Street Sewer</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.170851480298702,51.4826297137046,0</coordinates></Point></Placemark>
+<Placemark><name>Church Hill Road, Barnet</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.161720410936208,51.6414728182936,0</coordinates></Point></Placemark>
+<Placemark><name>Cholsey</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.14862536574791,51.5804821488634,0</coordinates></Point></Placemark>
+<Placemark><name>Chobham</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.597922564628588,51.3398722904097,0</coordinates></Point></Placemark>
+<Placemark><name>Chipping Warden</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.27099761423205,52.1294024526163,0</coordinates></Point></Placemark>
+<Placemark><name>Chipping Norton</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.57390381779306,51.9375851242238,0</coordinates></Point></Placemark>
+<Placemark><name>Chingford Storm Tanks</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0215247160976484,51.6083498010357,0</coordinates></Point></Placemark>
+<Placemark><name>Chilton Foliat</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.54283218916742,51.429013617097,0</coordinates></Point></Placemark>
+<Placemark><name>Chieveley</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.32730266524654,51.4623236903244,0</coordinates></Point></Placemark>
+<Placemark><name>Chesham</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.585064145305581,51.6867212306865,0</coordinates></Point></Placemark>
+<Placemark><name>Chelsea, London, Sw10</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.156426651677585,51.4846159751368,0</coordinates></Point></Placemark>
+<Placemark><name>Charlwood, Surrey</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.214468210010896,51.1542592606007,0</coordinates></Point></Placemark>
+<Placemark><name>Charlton-On-Otmoor</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.17583646827043,51.8389979458007,0</coordinates></Point></Placemark>
+<Placemark><name>Charlton Storm Relief</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0337783734077281,51.4949063265265,0</coordinates></Point></Placemark>
+<Placemark><name>Charlbury</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.48870355477332,51.8700839068654,0</coordinates></Point></Placemark>
+<Placemark><name>Chapmore End</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0679645522940497,51.8340209827213,0</coordinates></Point></Placemark>
+<Placemark><name>Chapel Row (Berks)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.17519183998131,51.4201704520819,0</coordinates></Point></Placemark>
+<Placemark><name>Chadlington</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.52612978733977,51.888312317039,0</coordinates></Point></Placemark>
+<Placemark><name>Chacombe</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.28223538957125,52.0936883950223,0</coordinates></Point></Placemark>
+<Placemark><name>Castle Gardens, Dorking</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.295298660992413,51.2385586067485,0</coordinates></Point></Placemark>
+<Placemark><name>Castle Drive</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.205867775807963,51.217437589961,0</coordinates></Point></Placemark>
+<Placemark><name>Cassington</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.3281425135306,51.7868285820881,0</coordinates></Point></Placemark>
+<Placemark><name>Cascade road storm tanks, buckhurst</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0542075348597311,51.6223362119559,0</coordinates></Point></Placemark>
+<Placemark><name>Capel</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.312913095561201,51.1564401207594,0</coordinates></Point></Placemark>
+<Placemark><name>Canterbury Road, Thornton Heath</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.146875075790206,51.3847733642256,0</coordinates></Point></Placemark>
+<Placemark><name>Canfold Wood</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.450248252536842,51.1462901141169,0</coordinates></Point></Placemark>
+<Placemark><name>Canfield End, Little Canfield</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.300690738324648,51.867762756079,0</coordinates></Point></Placemark>
+<Placemark><name>Camberley</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.765356313715459,51.3279085356002,0</coordinates></Point></Placemark>
+<Placemark><name>Cage End, Essex</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.242158963241365,51.8241102106131,0</coordinates></Point></Placemark>
+<Placemark><name>Caddington</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.439155090726124,51.8405218941949,0</coordinates></Point></Placemark>
+<Placemark><name>Bushey Court, Raynes Park</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.249629511257783,51.4149497253427,0</coordinates></Point></Placemark>
+<Placemark><name>Burford</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.62936780607951,51.8084830481944,0</coordinates></Point></Placemark>
+<Placemark><name>Buntingford</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0173026441033972,51.9398245923473,0</coordinates></Point></Placemark>
+<Placemark><name>Bucklebury (Briff Lane)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.21407902932375,51.4252031856059,0</coordinates></Point></Placemark>
+<Placemark><name>Broome (Attenuation Tank)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.77213334861677,51.5402785358738,0</coordinates></Point></Placemark>
+<Placemark><name>Brook Way, Chigwell</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0698154157126515,51.6192743242027,0</coordinates></Point></Placemark>
+<Placemark><name>Brockham Bridge</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.288339818082506,51.233061401365,0</coordinates></Point></Placemark>
+<Placemark><name>Broadwell</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.68529066440263,51.9426105346408,0</coordinates></Point></Placemark>
+<Placemark><name>Brickendon</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0836336477158578,51.7589228555345,0</coordinates></Point></Placemark>
+<Placemark><name>Brentfield Gardens</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.218296745426429,51.5770609662961,0</coordinates></Point></Placemark>
+<Placemark><name>Bramley</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.553083026673596,51.1952681123073,0</coordinates></Point></Placemark>
+<Placemark><name>Bracknell</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.773100410102137,51.441020538272,0</coordinates></Point></Placemark>
+<Placemark><name>Box Hill</name><description><p>Offline</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.284573960129471,51.2572866218441,0</coordinates></Point></Placemark>
+<Placemark><name>Bordon</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.853224080331424,51.1192816033788,0</coordinates></Point></Placemark>
+<Placemark><name>Blunsdon</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.7828389314654,51.623738558067,0</coordinates></Point></Placemark>
+<Placemark><name>Blind Mans Gate, Highclere</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.37240760597076,51.3535939703673,0</coordinates></Point></Placemark>
+<Placemark><name>Bledington</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.63701827917089,51.9033614978946,0</coordinates></Point></Placemark>
+<Placemark><name>Blacknest,Sunningdale</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.623395522559169,51.4096843055021,0</coordinates></Point></Placemark>
+<Placemark><name>Bishop Stortford Main</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.168691387768457,51.8595696807765,0</coordinates></Point></Placemark>
+<Placemark><name>Birchanger - Duck End</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.199322770567522,51.874198137694,0</coordinates></Point></Placemark>
+<Placemark><name>Bicester</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.15896979577393,51.8873408022592,0</coordinates></Point></Placemark>
+<Placemark><name>Berkhamsted</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.533951183518247,51.7508355138378,0</coordinates></Point></Placemark>
+<Placemark><name>Bentsbrook Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.326280010466838,51.2138261660943,0</coordinates></Point></Placemark>
+<Placemark><name>Bentley</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.871009432864769,51.1868074863072,0</coordinates></Point></Placemark>
+<Placemark><name>Bell Wharf</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0468697782723838,51.5090468553461,0</coordinates></Point></Placemark>
+<Placemark><name>Beer Lane</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.0806319995674022,51.5080755154365,0</coordinates></Point></Placemark>
+<Placemark><name>Beenham</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.14728395763863,51.4206002410945,0</coordinates></Point></Placemark>
+<Placemark><name>Beech Hall Crescent, Walthamstow</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.000109098708066029,51.6043861228034,0</coordinates></Point></Placemark>
+<Placemark><name>Beddington</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.140263196643741,51.3812513820342,0</coordinates></Point></Placemark>
+<Placemark><name>Beckton</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.0917372906538887,51.5147500448442,0</coordinates></Point></Placemark>
+<Placemark><name>Basingstoke</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.029049200144,51.2923544604732,0</coordinates></Point></Placemark>
+<Placemark><name>Barbers Lane</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.414677362507913,51.8802976175461,0</coordinates></Point></Placemark>
+<Placemark><name>Banbury</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.31453691689964,52.052792889325,0</coordinates></Point></Placemark>
+<Placemark><name>Bakers Farm, High Wych</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.119182150991683,51.8073270836534,0</coordinates></Point></Placemark>
+<Placemark><name>Aylesbury</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.86062334043462,51.8257577912196,0</coordinates></Point></Placemark>
+<Placemark><name>Avondale Rd</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.828461845594247,51.2846748334341,0</coordinates></Point></Placemark>
+<Placemark><name>Avon Dassett</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.40963147232108,52.1405168330234,0</coordinates></Point></Placemark>
+<Placemark><name>Auckland Road Storm Tanks</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.017724686306804,51.5596359589157,0</coordinates></Point></Placemark>
+<Placemark><name>Aston Le Walls</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.2793485914217,52.1550771137404,0</coordinates></Point></Placemark>
+<Placemark><name>Ash Vale</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.732104195969319,51.2793549176947,0</coordinates></Point></Placemark>
+<Placemark><name>Ash Ridge (Wokingham)</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.832676835682723,51.4237347487453,0</coordinates></Point></Placemark>
+<Placemark><name>Ascot</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.720863438640952,51.4052133474025,0</coordinates></Point></Placemark>
+<Placemark><name>Arford</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.819209569927507,51.1252378574359,0</coordinates></Point></Placemark>
+<Placemark><name>Arborfield</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.897963626635068,51.4002681414581,0</coordinates></Point></Placemark>
+<Placemark><name>Amyand Park Road, Twickenham</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.322097591600029,51.4466737653528,0</coordinates></Point></Placemark>
+<Placemark><name>Allendale Road</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.299312732693112,51.5524551971606,0</coordinates></Point></Placemark>
+<Placemark><name>Aldershot Town</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.734861196992165,51.2468326011265,0</coordinates></Point></Placemark>
+<Placemark><name>Aldermaston</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.1518151301481,51.385564967207,0</coordinates></Point></Placemark>
+<Placemark><name>Acton &amp; Storm Works</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.255078699159893,51.505944684601,0</coordinates></Point></Placemark>
+<Placemark><name>Abingdon</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-1.28835643493025,51.6524446114114,0</coordinates></Point></Placemark>
+<Placemark><name>Abbey Mills</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.000311783554430522,51.5301037861073,0</coordinates></Point></Placemark>
+<Placemark><name>Abbess Roding</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>0.282697693679463,51.7762984340985,0</coordinates></Point></Placemark>
+<Placemark><name>15 Coldharbour Lane, Bushey</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.355230840466582,51.6456916872044,0</coordinates></Point></Placemark>
+<Placemark><name>(Northern) Low Level No 1 Brook Green</name><description><p>Not discharging</p></description><styleUrl>#green-sewer</styleUrl><Point><coordinates>-0.229225003085766,51.48892120401,0</coordinates></Point></Placemark>
+  </Document>
+</kml>

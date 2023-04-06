@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>recently discharging sewer outlets</name><Style id="brown-sewer-normal">
+      <IconStyle><color>ff485579</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>0</scale></LabelStyle>
+    </Style>
+    <Style id="brown-sewer-highlight">
+      <IconStyle><color>ff485579</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>1</scale></LabelStyle>
+    </Style>
+    <StyleMap id="brown-sewer">
+      <Pair><key>normal</key><styleUrl>#brown-sewer-normal</styleUrl></Pair>
+      <Pair><key>highlight</key><styleUrl>#brown-sewer-highlight</styleUrl></Pair>
+    </StyleMap>
+    <Style id="amber-sewer-normal">
+      <IconStyle><color>ff00b4f4</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>0</scale></LabelStyle>
+    </Style>
+    <Style id="amber-sewer-highlight">
+      <IconStyle><color>ff00b4f4</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>1</scale></LabelStyle>
+    </Style>
+    <StyleMap id="amber-sewer">
+      <Pair><key>normal</key><styleUrl>#amber-sewer-normal</styleUrl></Pair>
+      <Pair><key>highlight</key><styleUrl>#amber-sewer-highlight</styleUrl></Pair>
+    </StyleMap>
+    <Style id="green-sewer-normal">
+      <IconStyle><color>7CFC00</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>0</scale></LabelStyle>
+    </Style>
+    <Style id="green-sewer-highlight">
+      <IconStyle><color>7CFC00</color><scale>1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href></Icon></IconStyle>
+      <LabelStyle><scale>1</scale></LabelStyle>
+    </Style>
+    <StyleMap id="green-sewer">
+      <Pair><key>normal</key><styleUrl>#green-sewer-normal</styleUrl></Pair>
+      <Pair><key>highlight</key><styleUrl>#green-sewer-highlight</styleUrl></Pair>
+    </StyleMap>
+  <Placemark><name>Worcester Crescent</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-06T02:00:00 Stop: 2023-04-06T03:45:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>0.0481919400388552,51.6106610314211,0</coordinates></Point></Placemark>
+<Placemark><name>Wheatley</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-04T14:45:00 Stop: 2023-04-04T23:45:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.12184550886679,51.7417714746099,0</coordinates></Point></Placemark>
+<Placemark><name>Waverley Lane</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-05T17:45:00 Stop: 2023-04-05T20:45:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-0.770025212142545,51.2069216906331,0</coordinates></Point></Placemark>
+<Placemark><name>Washwater</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-06T03:15:00 Stop: 2023-04-06T05:30:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.34931817229987,51.3615606901232,0</coordinates></Point></Placemark>
+<Placemark><name>Wantage</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-05T23:00:00 Stop: 2023-04-06T01:30:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.41348421691023,51.6226551717489,0</coordinates></Point></Placemark>
+<Placemark><name>Uffington</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-04T19:30:00 Stop: 2023-04-04T22:45:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.56677554788491,51.6044386527232,0</coordinates></Point></Placemark>
+<Placemark><name>Theydon Bois</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-06T03:30:00 Stop: 2023-04-06T05:30:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>0.132482926615862,51.6587094922245,0</coordinates></Point></Placemark>
+<Placemark><name>SW Storm Relief Sewer, London</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-04T22:42:00 Stop: 2023-04-05T05:34:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-0.135669990457189,51.4836043690183,0</coordinates></Point></Placemark>
+<Placemark><name>Stansted Mountfitchet</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-03T11:30:00 Stop: 2023-04-04T11:00:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>0.179930405653083,51.8967703890991,0</coordinates></Point></Placemark>
+<Placemark><name>South Leigh</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-03-22T22:45:00 Stop: 2023-04-04T14:15:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.42950881853179,51.7730679772413,0</coordinates></Point></Placemark>
+<Placemark><name>Silchester</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-03-22T08:15:00 Stop: 2023-04-06T03:45:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.10691219526559,51.3446779297077,0</coordinates></Point></Placemark>
+<Placemark><name>Shutford</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-06T07:30:00 Stop: 2023-04-06T08:30:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.43499925925425,52.0641306537041,0</coordinates></Point></Placemark>
+<Placemark><name>Shrivenham</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-05T19:00:00 Stop: 2023-04-05T23:30:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.64617543482063,51.6065028906583,0</coordinates></Point></Placemark>
+<Placemark><name>Regent Street</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-05T23:46:00 Stop: 2023-04-05T23:58:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-0.122516498201897,51.505785958249,0</coordinates></Point></Placemark>
+<Placemark><name>Reading</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-04T10:45:00 Stop: 2023-04-04T13:45:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-0.978211410326727,51.4310280841665,0</coordinates></Point></Placemark>
+<Placemark><name>Opposite St Stephens Hall</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-06T07:40:00 Stop: 2023-04-06T07:46:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.10720906156301,51.3293938707888,0</coordinates></Point></Placemark>
+<Placemark><name>Nightingale Lane</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-06T04:36:00 Stop: 2023-04-06T04:40:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-0.0682327752067629,51.5048144537164,0</coordinates></Point></Placemark>
+<Placemark><name>Kingston Bagpuize</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-05T08:15:00 Stop: 2023-04-05T10:30:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.41786901338573,51.6750964967962,0</coordinates></Point></Placemark>
+<Placemark><name>Islip</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-05T20:30:00 Stop: 2023-04-05T23:30:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.23100694423519,51.8210295039279,0</coordinates></Point></Placemark>
+<Placemark><name>Horseferry Road</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-06T07:36:00 Stop: 2023-04-06T07:42:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-0.124831228411309,51.4950319400182,0</coordinates></Point></Placemark>
+<Placemark><name>Frogmore Storm</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-05T15:40:00 Stop: 2023-04-05T16:22:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-0.196403822584265,51.4591953865844,0</coordinates></Point></Placemark>
+<Placemark><name>Faringdon</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-05T22:15:00 Stop: 2023-04-05T23:00:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.59741406800844,51.6666775663356,0</coordinates></Point></Placemark>
+<Placemark><name>Didcot</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-03-31T07:15:00 Stop: 2023-04-04T22:45:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.24959120818012,51.6190250223464,0</coordinates></Point></Placemark>
+<Placemark><name>Culham</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-05T22:30:00 Stop: 2023-04-06T03:15:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.22122610377235,51.655975019653,0</coordinates></Point></Placemark>
+<Placemark><name>Cricklade</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-04T12:00:00 Stop: 2023-04-04T12:30:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.84719899927389,51.6434407620304,0</coordinates></Point></Placemark>
+<Placemark><name>Combe</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-04T18:30:00 Stop: 2023-04-05T07:00:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.41142576437748,51.8373551850455,0</coordinates></Point></Placemark>
+<Placemark><name>Clapham Storm Relief Sewer, London</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-05T09:32:00 Stop: 2023-04-05T09:36:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-0.125746214458122,51.4867734172066,0</coordinates></Point></Placemark>
+<Placemark><name>Chinnor</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-06T06:45:00 Stop: 2023-04-06T07:30:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-0.900855759179291,51.7227391887722,0</coordinates></Point></Placemark>
+<Placemark><name>Carterton</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-04T18:15:00 Stop: 2023-04-04T22:30:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.59587868174193,51.7417488208489,0</coordinates></Point></Placemark>
+<Placemark><name>Burstow</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-04T08:15:00 Stop: 2023-04-05T00:00:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-0.135965278167044,51.1790241717076,0</coordinates></Point></Placemark>
+<Placemark><name>Brixton Storm Relief Sewer</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-06T04:08:00 Stop: 2023-04-06T04:12:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-0.125447271878387,51.4870384155045,0</coordinates></Point></Placemark>
+<Placemark><name>Benson</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-05T13:08:00 Stop: 2023-04-06T03:40:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.10576006825604,51.6100154777742,0</coordinates></Point></Placemark>
+<Placemark><name>Bell Lane Creek</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-06T02:00:00 Stop: 2023-04-06T03:15:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-0.196403822584265,51.4591953865844,0</coordinates></Point></Placemark>
+<Placemark><name>Beckley</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-04T09:15:00 Stop: 2023-04-04T10:30:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>-1.17938911527776,51.8032378589774,0</coordinates></Point></Placemark>
+<Placemark><name>Barkway</name><description><p>Not discharging</p><p>Recently Discharged:</p><p>Start: 2023-04-05T02:45:00 Stop: 2023-04-05T13:00:00</p></description><styleUrl>#amber-sewer</styleUrl><Point><coordinates>0.0199013475137503,51.993953827607,0</coordinates></Point></Placemark>
+  </Document>
+</kml>
